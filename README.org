@@ -1,0 +1,11 @@
+* signate-414
+
+  https://signate.jp/competitions/414
+
+* 目標
+  - いくつかの automl を試す
+
+* 結果
+  1. auto-sklearn 0.7995000
+  2. AutoGluon 0.7965000
+  3. H2OAutoML 0.7660000
